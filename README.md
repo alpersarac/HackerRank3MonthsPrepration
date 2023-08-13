@@ -4,7 +4,6 @@ This is for having an idea from another perspective to solve the 3 Months Prepar
 
 **If you want to contribute this project go for it!**
 
-https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges
+Kit: https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges
 
-
-**My profile: ** https://www.hackerrank.com/alpersarac42
+My profile: https://www.hackerrank.com/alpersarac42
