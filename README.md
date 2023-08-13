@@ -1,4 +1,4 @@
-# HackerRank3MonthsPrepration
+# 3 Months Preparation Kit on Hacker Rank
 
 This is for having an idea from another perspective to solve the 3 Months Preparation Kit on Hacker Rank.
 
