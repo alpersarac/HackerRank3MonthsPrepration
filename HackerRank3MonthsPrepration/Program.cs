@@ -12,7 +12,7 @@ namespace HackerRank3MonthsPrepration
     {
         static void Main(string[] args)
         {
-
+            
         }
     }
 }
