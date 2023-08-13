@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,9 +12,7 @@ namespace HackerRank3MonthsPrepration
     {
         static void Main(string[] args)
         {
-            CamelCase4.CamelCase4Main();
-            
+
         }
-       
     }
 }
