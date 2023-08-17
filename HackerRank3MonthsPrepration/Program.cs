@@ -12,7 +12,7 @@ namespace HackerRank3MonthsPrepration
     {
         static void Main(string[] args)
         {
-            
+            maximumPerimeterTriangle(new List<int>() { 1 ,1, 1, 3 ,3 });
         }
         
     }
