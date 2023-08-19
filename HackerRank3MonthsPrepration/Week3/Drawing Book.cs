@@ -12,8 +12,19 @@ namespace HackerRank3MonthsPrepration.Week3
         {
             if (p <= n)
             {
-                int fromLastPage = (int)(Math.Ceiling((double)(n - p - 1) / 2));
-                int fromFirstPage = (int)(Math.Ceiling((double)(p) / 2));
+                int fromLastPage = 0;
+                int fromFirstPage= 0;
+                if (n % 2 == 0&&n/p!=2)
+                {
+                    fromLastPage = (int)Math.Ceiling((double)(n - p) / 2);
+                    fromFirstPage = (int)(Math.Ceiling((double)(p) / 2));
+                }
+                else
+                {
+                    fromLastPage = (int)Math.Ceiling((double)(n - p - 1) / 2);
+                    fromFirstPage = (int)(Math.Ceiling((double)(p-1) / 2));
+                    }
+               
 
                 if (fromLastPage > fromFirstPage)
                     return fromFirstPage;

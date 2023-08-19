@@ -1,4 +1,5 @@
 ﻿using HackerRank3MonthsPrepration.Week1;
+using HackerRank3MonthsPrepration.Week3;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +13,7 @@ namespace HackerRank3MonthsPrepration
     {
         static void Main(string[] args)
         {
-
+           var ww = Drawing_Book.pageCount(2, 1);
         }
     }
 }
